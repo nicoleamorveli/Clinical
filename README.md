@@ -14,3 +14,5 @@ The Chi-square test was performed too for some variables if they had more the tw
 
 Same tests were performed for demographic data. 
 
+The second code is for creating a latex document. The dataframes are converted in to tabular code (latex) 
+
